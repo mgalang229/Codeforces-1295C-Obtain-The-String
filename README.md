@@ -55,7 +55,7 @@ lf -> g -> hk -> ouwf
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 i n k o q h h k g  u  g  k  w  l  f
 
-maybe we can store the previous indices and 
+we can store the previous indices and 
 compare it to the indices of the current character
 
 sorted indices list
